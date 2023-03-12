@@ -89,12 +89,22 @@ html {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 820px) {
   .page_title {
     font-size: 1.5rem;
   }
 
   .meme_text {
     font-size: 1.2rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .page_title {
+    font-size: 1.3rem;
+  }
+
+  .meme_text {
+    font-size: 1rem;
   }
 }
