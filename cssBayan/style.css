@@ -12,6 +12,7 @@ html {
   padding: 1vw;
   font-size: 2rem;
   border-bottom: 0.2rem solid black;
+  border-top: 0.2rem solid black;
 }
 
 .accordion_item {
